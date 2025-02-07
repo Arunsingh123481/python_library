@@ -17,16 +17,12 @@ Since llms is not yet published on PyPI, you can install it in the following way
 1️⃣ Install Locally (From a Directory)
 If you have downloaded or cloned the repository, navigate to its folder and install:
 
-bash
-Copy
-Edit
+In Powershell
 pip install -e .
 2️⃣ Install Directly from GitHub
 If the project is uploaded to GitHub, you can install it via:
 
-bash
-Copy
-Edit
+In Powershell
 pip install git+https://github.com/yourusername/llms.git
 Usage
 1️⃣ Import and Initialize
